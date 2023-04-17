@@ -1,0 +1,40 @@
+.card{
+    
+    width: 300px;
+    margin: 10px;
+    box-sizing: border-box;
+    box-shadow: 4px 5px 2px seagreen;
+    border: 2px double aqua;
+}
+.card-pic{
+    width: 100%;
+}
+.card-title{
+    padding: 5px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: coral;
+}
+.card-des{
+    text-align: left;
+    color: lightseagreen;
+    padding: 3px;
+}
+.card-body{
+    padding: 5px;
+    background-color: whitesmoke;
+}
+.card:hover{
+    box-shadow: 8px 10px 4px chartreuse;
+}
+.card-contai{
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+   background-color: darkkhaki;
+   
+    
+}
+
